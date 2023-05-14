@@ -37,7 +37,7 @@
 | 5/22/2023  | - Service types and selectors                       | - Labels, Selectors, and Annotations              | - Kubernetes Volumes and PersistentVolumes            |
 | 5/24/2023  | - Network Policies and Service Discovery            | - Pod anti-affinity and affinity                   | - StatefulSets and Headless Services                  |
 | 5/26/2023  | - Ingress and Ingress Controllers                   | - Taints and Tolerations                           | - Rolling updates and rollbacks                       |
-|            | **Exercise**: Services and Networking \ -the excercise is bout | **Exercise**: Pod Affinity and Anti-Affinity       | **Project**: Stateful Application Deployment          |
+|            | **Exercise**: Services and Networking\ -the excercise is bout | **Exercise**: Pod Affinity and Anti-Affinity       | **Project**: Stateful Application Deployment          |
 | Week 3     | **Pod Observability**                              | **Configuration**                                | **Deployments and Rolling Updates**                   |
 | 5/29/2023  | - Logging with Kubernetes                           | - ConfigMaps and Secrets                          | - Deployments and ReplicaSets                         |
 | 5/31/2023  | - Debugging with Kubernetes                          | - SecurityContexts and ServiceAccounts            | - Rolling updates and rollbacks                       |
