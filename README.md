@@ -5,7 +5,13 @@
 | 5/15/2023  | - Overview of containerization                 | - Kubernetes control plane and worker nodes        | - Setting up a local cluster                                 |
 | 5/17/2023  | - Kubernetes features and use cases             | - Kubernetes API server and etcd                   | - Kubernetes deployment models and manifests                 |
 | 5/19/2023  | - Kubernetes vs Docker                          | - Kubernetes networking and service discovery      | - Kubernetes dashboard and kubectl basics                     |
-|            | **Project**: Create a simple Kubernetes cluster | **Project**: Deploy a simple application on Kubernetes | **Project**: Deploy a multi-tier application on Kubernetes |
+|            | **Project**: Create a simple Kubernetes cluster\ | **Project**: Deploy a simple application on Kubernetes | **Project**: Deploy a multi-tier 
+              -This exercise focuses on creating, inspecting and\
+              updating pods using different methods. You will learn\
+              how to create a pod using an imperative command and a YAML\
+              file. You will also learn how to inspect a pod's logs and update\
+              a pod's configuration using kubectl commands.
+application on Kubernetes |
 | Week 2     | **Kubernetes Networking**                      | **Kubernetes Storage**                             | **Kubernetes Security**                                      |
 | 5/22/2023  | - Kubernetes networking models                   | - Kubernetes storage classes and volumes           | - Kubernetes security overview and security contexts         |
 | 5/24/2023  | - Kubernetes services and service types          | - Persistent volumes and claims in Kubernetes      | - Kubernetes role-based access control (RBAC)                 |
