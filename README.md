@@ -32,12 +32,16 @@
 | 5/15/2023  | - Kubernetes Architecture                          | - Environment variables                           | - Multi-container patterns and anti-patterns          |
 | 5/17/2023  | - Pod creation and configuration                    | - ConfigMaps and Secrets                          | - Using initContainers for pre-start initialization    |
 | 5/19/2023  | - Pod scheduling                                   | - SecurityContexts and ServiceAccounts            | - Designing for container communication and sharing   |
-|            | **Exercise**: Create, Inspect and Update Pods        | **Exercise**: ConfigMaps, Secrets and SecurityContexts | **Project**: Multi-Container Application Deployment   |
+|            | **Exercise**: Create, Inspect and Update Pods
+              -This excercise is bout
+| **Exercise**: ConfigMaps, Secrets and SecurityContexts | **Project**: Multi-Container Application Deployment   |
 | Week 2     | **Services and Networking**                        | **Pod Design**                                   | **State Persistence**                                 |
 | 5/22/2023  | - Service types and selectors                       | - Labels, Selectors, and Annotations              | - Kubernetes Volumes and PersistentVolumes            |
 | 5/24/2023  | - Network Policies and Service Discovery            | - Pod anti-affinity and affinity                   | - StatefulSets and Headless Services                  |
 | 5/26/2023  | - Ingress and Ingress Controllers                   | - Taints and Tolerations                           | - Rolling updates and rollbacks                       |
-|            | **Exercise**: Services and Networking                | **Exercise**: Pod Affinity and Anti-Affinity       | **Project**: Stateful Application Deployment          |
+|            | **Exercise**: Services and Networking 
+              -the excercise is bout
+| **Exercise**: Pod Affinity and Anti-Affinity       | **Project**: Stateful Application Deployment          |
 | Week 3     | **Pod Observability**                              | **Configuration**                                | **Deployments and Rolling Updates**                   |
 | 5/29/2023  | - Logging with Kubernetes                           | - ConfigMaps and Secrets                          | - Deployments and ReplicaSets                         |
 | 5/31/2023  | - Debugging with Kubernetes                          | - SecurityContexts and ServiceAccounts            | - Rolling updates and rollbacks                       |
