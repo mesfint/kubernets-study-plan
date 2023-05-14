@@ -17,4 +17,7 @@
 | 6/2/2023   | - Kubernetes deployment strategies                | - Cluster autoscaling in Kubernetes                 | - Kubernetes troubleshooting and debugging techniques        |
 |            | **Project**: Deploy a complex multi-tier app      | **Project**: Scale a simple app horizontally and vertically | **Project**: Configure monitoring and logging for a multi-tier app |
 | Week 4     | **Kubernetes Advanced Topics**                   | **Kubernetes Best Practices**                      | **Kubernetes Project**                                       |
-| 6
+| 6/5/2023   | - Kubernetes ingress and ingress controllers     | - Kubernetes resource limits in pods and containers | - Contributing to Kubernetes and the Kubernetes release process |
+| 6/7/2023   | - Kubernetes custom resources and operators      | - Kubernetes rolling updates and blue/green deployments | - Kubernetes community and CNCF landscape                     |
+| 6/9/2023   | - Kubernetes multi-tenancy and security models   | - Kubernetes cluster sizing and resource management | - Final project presentations                                |
+|            | **Project**: Configure advanced networking and security for a multi-tier app | **Project**: Implement rolling updates and blue/green deployments | **Project**: Contribute to a Kubernetes open source project |
