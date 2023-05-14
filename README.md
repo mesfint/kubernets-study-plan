@@ -5,9 +5,7 @@
 | 5/15/2023  | - Overview of containerization                 | - Kubernetes control plane and worker nodes        | - Setting up a local cluster                                 |
 | 5/17/2023  | - Kubernetes features and use cases             | - Kubernetes API server and etcd                   | - Kubernetes deployment models and manifests                 |
 | 5/19/2023  | - Kubernetes vs Docker                          | - Kubernetes networking and service discovery      | - Kubernetes dashboard and kubectl basics                     |
-|            | **Project**: Create a simple Kubernetes cluster | **Project**: Deploy a simple application on Kubernetes | **Project**: Deploy a multi-tier 
-             
-application on Kubernetes |
+|            | **Project**: Create a simple Kubernetes cluster | **Project**: Deploy a simple application on Kubernetes | **Project**: Deploy a multi-tier application on Kubernetes |
 | Week 2     | **Kubernetes Networking**                      | **Kubernetes Storage**                             | **Kubernetes Security**                                      |
 | 5/22/2023  | - Kubernetes networking models                   | - Kubernetes storage classes and volumes           | - Kubernetes security overview and security contexts         |
 | 5/24/2023  | - Kubernetes services and service types          | - Persistent volumes and claims in Kubernetes      | - Kubernetes role-based access control (RBAC)                 |
@@ -23,6 +21,7 @@ application on Kubernetes |
 | 6/7/2023   | - Kubernetes custom resources and operators      | - Kubernetes rolling updates and blue/green deployments | - Kubernetes community and CNCF landscape                     |
 | 6/9/2023   | - Kubernetes multi-tenancy and security models   | - Kubernetes cluster sizing and resource management | - Final project presentations                                |
 |            | **Project**: Configure advanced networking and security for a multi-tier app | **Project**: Implement rolling updates and blue/green deployments | **Project**: Contribute to a Kubernetes open source project |
+
 
 # Topics that are relevant to the Certified Kubernetes Application Developer (CKAD) certification. 
 ##  Also added CKAD specific exercises and projects for each week
