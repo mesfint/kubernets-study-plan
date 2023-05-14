@@ -49,4 +49,3 @@ application on Kubernetes |
 | 6/7/2023   | - SecurityContexts and ServiceAccounts best practices | - Jobs and CronJobs                               | - Practice exam with review session                    |
 | 6/9/2023   | - Kubernetes Role-Based Access Control (RBAC)         | - Advanced scheduling concepts and practice        | - Final project presentations with feedback and review |
 |            | **Exercise**: ConfigMaps, Security and RBAC           | **Exercise**: Advanced Concepts                    | **Mock Exam and Review**                              |
-
