@@ -2,8 +2,8 @@
 | Date       | Mesfin                                         | Hussen                                             | Eyoel                                                      |
 |------------|------------------------------------------------|----------------------------------------------------|------------------------------------------------------------|
 | Week 1     | **Introduction to Kubernetes**                 | **Kubernetes Architecture**                        | **Installing Kubernetes**                                   |
-| 5/15/2023  | -  [x] Overview of containerization                 | - Kubernetes control plane and worker nodes        | - Setting up a local cluster                                 |
-| 5/17/2023  | -  [ ] Kubernetes features and use cases             | - Kubernetes API server and etcd                   | - Kubernetes deployment models and manifests                 |
+| 5/15/2023  | - Overview of containerization                 | - Kubernetes control plane and worker nodes        | - Setting up a local cluster                                 |
+| 5/17/2023  | -  Kubernetes features and use cases             | - Kubernetes API server and etcd                   | - Kubernetes deployment models and manifests                 |
 | 5/19/2023  | - Kubernetes vs Docker                          | - Kubernetes networking and service discovery      | - Kubernetes dashboard and kubectl basics                     |
 |            | **Project**: Create a simple Kubernetes cluster | **Project**: Deploy a simple application on Kubernetes | **Project**: Deploy a multi-tier application on Kubernetes |
 | Week 2     | **Kubernetes Networking**                      | **Kubernetes Storage**                             | **Kubernetes Security**                                      |
