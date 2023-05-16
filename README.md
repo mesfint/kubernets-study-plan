@@ -1,4 +1,6 @@
 # kubernets-study-plan
+
+ <strike> Completed task
 | Date       | Mesfin                                         | Hussen                                             | Eyoel                                                      |
 |------------|------------------------------------------------|----------------------------------------------------|------------------------------------------------------------|
 | Week 1     | **Introduction to Kubernetes**                 | **Kubernetes Architecture**                        | **Installing Kubernetes**                                   |
