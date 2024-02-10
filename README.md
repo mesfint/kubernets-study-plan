@@ -50,3 +50,27 @@ N.B <strike> Completed task </strike>
 | 6/7/2023   | - SecurityContexts and ServiceAccounts best practices | - Jobs and CronJobs                               | - Practice exam with review session                    |
 | 6/9/2023   | - Kubernetes Role-Based Access Control (RBAC)         | - Advanced scheduling concepts and practice        | - Final project presentations with feedback and review |
 |            | **Exercise**: ConfigMaps, Security and RBAC           | **Exercise**: Advanced Concepts                    | **Mock Exam and Review**                              |
+
+
+
+Taudin nimi | Oireet | Hoito | Jälkitaudit ja vakavat seuraukset | Taudin aiheuttaja | Taudin tarttuminen | Tartunnan ehkäisytoimet
+---|---|---|---|---|---|---
+Rotavirusinfektio | Ripuli, oksentelu, kuume | Nesteytys, lepo | Dehydraatio, mahdollinen sairaalahoito | Rotavirus | Fekaalinen-oraalinen | Hyvä käsihygienia, rokotus
+Kurkkumätä | Kuume, kurkkukipu, nielutulehdus, kalvomaiset peitteet nielussa | Antibiootit, lepo | Hengitysvajaus, sydäntulehdus | Corynebacterium diphtheriae | Pisara- ja kosketustartunta | Rokotus, hyvä hygienia
+Jäykkäkouristus | Lihasjäykkyys, krampit, hengitysvaikeudet | Immunoglobuliini, tetanustoksoidi | Hengitysvajaus, kuolema | Clostridium tetani | Haavat, jotka ovat likaisia tai altistuvat maaperälle | Rokotus, puhtaat haavat
+Hinkuyskä | Yskäkohtaukset, hengitysvaikeudet, siniset kasvot | Antibiootit, hengitystuki | Keuhkokuume, aivovaurio, kuolema | Bordetella pertussis | Pisara- ja kosketustartunta | Rokotus, hyvä käsihygienia
+Polio | Lievät flunssan oireet, lihasheikkous, halvaus | Fysioterapia, tukitoimet | Paralyysi, kuolema | Poliovirus | Fekaalinen-oraalinen | Rokotus, hyvä hygienia
+Hib-taudit | Korvatulehdus, aivokalvontulehdus, keuhkokuume | Antibiootit, tukihoito | Kuurous, aivovaurio, kuolema | Haemophilus influenzae b | Pisara- ja kosketustartunta | Rokotus
+Pneumokokki-infektio | Keuhkokuume, korvatulehdus, verenmyrkytys | Antibiootit, tukitoimet | Meningiitti, kuolema | Streptococcus pneumoniae | Pisara- ja kosketustartunta | Rokotus
+Influenssa | Kuume, lihaskivut, yskä, väsymys | Lepo, kuumelääkkeet | Keuhkokuume, kuolema | Influenzavirus | Pisara- ja kosketustartunta | Rokotus, hyvä hygienia
+Tuhkarokko | Kuume, ihottuma, yskä, silmien ärsytys | Tukihoito | Keuhkokuume, kuolema, aivovaurio | Morbillivirus | Pisara- ja kosketustartunta | Rokotus
+Vihurirokko | Lievät flunssan oireet, ihottuma, niveltulehdus | Tukihoito | Kuulon heikkeneminen, aivovaurio | Rubellavirus | Pisara- ja kosketustartunta | Rokotus
+Sikotauti | Kuume, turvonneet sylkirauhaset, kipu | Tukihoito, kuumelääkkeet | Miehitys, hedelmättömyys | Mumpsivirus | Pisara- ja kosketustartunta | Rokotus
+Vesirokko | Ihottuma, kutina, kuume | Tukihoito, kuumelääkkeet | Bakteeritulehdukset, aivotulehdus | Varicella-zoster-virus | Pisara- ja kosketustartunta | Rokotus, eristys
+Papilloomavirusinfektio | Sukuelinten syyliä, syövän esiasteita | Paikallishoito, leikkaus | Kohdunkaulan syöpä, sukuelinten syöpä | Papillomavirus | Seksuaalinen kontakti | Rokotus, kondomin käyttö
+Tuberkuloosi | Yskä, väsymys, painon lasku, yöhikoilu | Antibiootit, eristys | Keuhkoputkien laajeneminen, kuolema | Mycobacterium tuberculosis | Ilman kautta | Rokotus, eristys, hyvä ilmanvaihto
+Hepatiitti A | Kuume, väsymys, ruokahaluttomuus, keltaisuus | Tukihoito, oireenmukainen hoito | Maksan vajaatoiminta, kuolema | Hepatiitti A -virus | Suun kautta | Hyvä hygienia, rokotus
+Hepatiitti B | Väsymys, ruokahaluttomuus, keltaisuus | Tukihoito, viruslääkkeet | Maksakirroosi, maksasyöpä | Hepatiitti B -virus | Veren tai kehon nesteiden kautta | Rokotus, steriilien neulojen käyttö
+Puutiaisaivotulehdus | Kuume, päänsärky, lihaskivut, ihottuma | Tukihoito, viruslääkkeet | Aivokalvontulehdus, kuolema | Puutiaiset | Punkin purema | Suojautuminen punkilta, tarkastus punkinpuremien jälkeen
+Meningokokki | Kuume, päänsärky, pahoinvointi, ihottuma | Antibiootit, tukihoito | Aivovaurio, kuolema | Neisseria meningitidis | Pisara- ja kosketustartunta | Rokotus, hyvä hygienia
+Vesikauhu | Kuume, päänsärky, pelko vedestä | Immunoglobuliini, tukihoito | Aivokalvontulehdus, kuolema | Rabiesvirus | Eläimen purema | Rokotus, välttää eläinten lähellä olemista
